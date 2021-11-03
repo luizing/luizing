@@ -4,7 +4,7 @@
 
 ## Atualmente, essas são minhas principais ocupações:
  - Curso Ciências da Computação na Universidade Federal do Ceará (UFC).
- - Estudo diariamente linguagens de programação variádas.
+ - Estudo diariamente linguagens de programação variadas.
  - Busco experiência profissional na área de programação.
 
 <br>
@@ -17,7 +17,7 @@
 
 <br>
 
-## Sofwares utéis que aprendi a usar:
+## Softwares uteis que aprendi a usar:
 - Photoshop
 - Adobe Premiere
 - Sony Vegas
