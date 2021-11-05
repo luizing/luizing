@@ -9,7 +9,7 @@
 
 <br>
 
-## E as linguagens que domino:
+## As linguagens que domino:
 - Html e Css
 - Javascript
 - Python
