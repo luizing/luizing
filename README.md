@@ -30,4 +30,4 @@
 
 
 [instagram]: https://www.instagram.com/luized_1/
-[linkedin]: https://www.linkedin.com/in/luiz-eduardo-alves-camurça-7206521b9/
+[linkedin]: https://www.linkedin.com/in/luizing/
