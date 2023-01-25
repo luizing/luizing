@@ -10,9 +10,8 @@
 <br>
 
 ## As linguagens que domino:
-- Html e Css
-- Javascript
 - Python
+- Javascript
 - C
 
 <br>
