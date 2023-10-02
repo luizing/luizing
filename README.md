@@ -3,24 +3,18 @@
 <br>
 
 ## Atualmente, essas são minhas principais ocupações:
- - Curso Ciências da Computação na Universidade Federal do Ceará (UFC).
- - Estudo diariamente linguagens de programação variadas.
+ - Curso Ciência da Computação na Universidade Federal do Ceará (UFC).
+ - Participo de forma voluntária no projeto Farol Digital.
  - Busco experiência profissional na área de programação.
 
 <br>
 
-## As linguagens que domino:
-- Python
-- Javascript
-- C
-
-<br>
-
-## Softwares úteis que aprendi a usar:
-- Photoshop
-- Adobe Premiere
-- Sony Vegas
-- Audacity
+## Ferramentas úteis que aprendi a usar:
+- Minhas principais linguagens de programação (Python, C, Javascript)
+- Docker
+- Sistemas de bancos de dados (Postgres, Redis, SSMS)
+- Edição de mídias (Photoshop, Adobe Premiere, Audacity)
+- Html e CSS
 
 ### Formas de me contactar:
 
