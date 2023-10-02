@@ -16,7 +16,7 @@
 
 <br>
 
-## Softwares uteis que aprendi a usar:
+## Softwares úteis que aprendi a usar:
 - Photoshop
 - Adobe Premiere
 - Sony Vegas
