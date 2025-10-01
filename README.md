@@ -39,7 +39,7 @@
     - Projeto FrontEnd para consumir Flor de Lís - API
     - FrontEnd, consumo de API REST
 
-> 🔗 **Explorer todos os meus repositórios:** [Aqui no GitHub!](https://github.com/luizing)
+> 🔗 **Explore todos os meus repositórios:** [Aqui no GitHub!](https://github.com/luizing)
 
 ---
 
