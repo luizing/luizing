@@ -1,6 +1,6 @@
 # 💡 Luiz Eduardo Camurça
 
-🎓 Cientista da Computação | 💻 Desenvolvedor Back-End/Full-Stack em formação, aplicando fundamentos sólidos da computação para criar soluções robustas e escaláveis.
+🎓 Cientista da Computação em formação| 💻 Desenvolvedor Back-End/Full-Stack, aplicando fundamentos sólidos da computação para criar soluções robustas e escaláveis.
 
 ---
 
